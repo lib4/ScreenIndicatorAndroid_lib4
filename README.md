@@ -1,4 +1,7 @@
 SlideInOutViewAnimationAndroid_lib4
 ===================================
+Author AnasAbubacker
 
-SlideInOut Animation 
+Screen Indicator Moving Dots.
+
+
