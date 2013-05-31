@@ -1,4 +1,4 @@
-SlideInOutViewAnimationAndroid_lib4
+Screen Indicator Android_lib4
 ===================================
 Author AnasAbubacker
 
